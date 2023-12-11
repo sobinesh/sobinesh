@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sobinesh01
+- 👋 Hi, I’m @sobinesh
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning anything that looks interesting(many things lol)
 - 💞️ I’m looking to collaborate on something interesting...
