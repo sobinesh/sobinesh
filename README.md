@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sobinesh S</h1>
-<h3 align="center">Fresher Seeking Job oputunities</h3>
+<h3 align="center">Fresher Seeking Job opportunities</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/vcart/image/upload/v1670509010/avatar-removebg-preview_iqzth5.png">
 
 
