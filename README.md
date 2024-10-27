@@ -36,3 +36,6 @@
 <!--<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" height="40" width="242"/> -->
 
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albini-ai&show_icons=true&locale=en" alt="albini-ai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albini-ai&" alt="albini-ai" /></p>
