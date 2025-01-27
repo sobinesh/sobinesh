@@ -36,4 +36,4 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sobinesh&show_icons=true&locale=en" alt="sobinesh" width="495px" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-sigma.vercel.app?user=sobinesh" alt="GitHub Streak" /></a>
+<p><img src="https://github-readme-streak-stats-nine-sigma.vercel.app?user=sobinesh" alt="GitHub Streak" /></p>
