@@ -34,5 +34,6 @@
 <!--<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" height="40" width="242"/> -->
 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sobinesh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobinesh&layout=compact&theme=buefy&hide_border=true" /></p>
+<p>
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=sobinesh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobinesh&layout=compact&theme=buefy&hide_border=true" /></p> |
+| ------------- | ------------- |
