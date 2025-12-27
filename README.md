@@ -35,4 +35,3 @@
 
 </p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sobinesh" alt="GitHub Streak" /></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobinesh&layout=compact&theme=buefy&hide_border=true" />
