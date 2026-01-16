@@ -34,4 +34,4 @@
 <!--<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" height="40" width="242"/> -->
 
 </p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sobinesh" alt="GitHub Streak" /></a>
+[<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sobinesh" alt="GitHub Streak" /></a>](url)
